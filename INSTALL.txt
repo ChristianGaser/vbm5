@@ -1,0 +1,8 @@
+VBM5 Toolbox version v1.03
+Christian Gaser | christian.gaser@uni-jena.de | dbm.neuro.uni-jena.de/vbm
+
+======================================================================
+Installation
+======================================================================
+
+First, unpack the zip-file and copy or link the vbm5 folder to the spm5/toolbox directory. You can start the toolbox by using the "TASKS" button (right in the Graphics window): select TASKS | Tools | VBM.
